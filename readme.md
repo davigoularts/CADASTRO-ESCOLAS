@@ -88,13 +88,6 @@ A interface AngularJS está no arquivo `index.html`, que é servido automaticame
 http://localhost:8080
 ```
 
-### 4. Acessar o banco H2 (opcional)
-
-- URL: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
-- JDBC URL: `jdbc:h2:mem:testdb`
-- Usuário: `sa`
-- Senha: *(em branco)*
-
 ---
 
 ## 📌 Objetivo
