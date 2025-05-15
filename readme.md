@@ -1,6 +1,6 @@
 # 📚 Cadastro de Escolas
 
-Este é um projeto full stack para cadastro e gerenciamento de escolas, desenvolvido com **Spring Boot** e **AngularJS**. Ele permite realizar operações básicas de CRUD (Criar, Ler, Atualizar e Deletar) com persistência de dados em ProstgreSQL.
+Este é um projeto full stack para cadastro e gerenciamento de escolas, desenvolvido com **Spring Boot** e **AngularJS**. Ele permite realizar operações básicas de CRUD (Criar, Ler, Atualizar e Deletar) com persistência de dados em PostgreSQL.
 
 ---
 
